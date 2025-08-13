@@ -1,6 +1,6 @@
 
 
-<!-- Kullandığın teknolojiler -->
+<!-- Kullandığım teknolojiler -->
 <h3 align="center"> Kullandığım Teknolojiler & Araçlar </h3>
 <p align="center">
   <a href="https://skillicons.dev">
