@@ -2,7 +2,7 @@
 <h3 align="center"> Kullandığım Teknolojiler & Araçlar </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,js,ts,html,css,electron,vscode,rust,powershell&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,html,css,electron,vscode,powershell&perline=5&theme=dark" />
   </a>
 </p>
 <p align="center">
