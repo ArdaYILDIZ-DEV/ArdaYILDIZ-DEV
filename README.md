@@ -1,14 +1,25 @@
-    
+
+<p align="center">
+  <a href="https://discord.com/users/1197169449879474199">
+    <img src="https://api.lanyard.rest/v1/users/1197169449879474199.svg?theme=dark&bg=00000000&borderRadius=30px" alt="Arda YILDIZ - Discord Durumu"/>
+  </a>
+</p>
+
+<!-- Kullandığın teknolojiler -->
 <h3 align="center"> Kullandığım Teknolojiler & Araçlar </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,html,css,electron,vscode,powershell&perline=5&theme=dark" />
   </a>
 </p>
+
+<!-- GitHub İstatistiklerim -->
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=ArdaYILDIZ-DEV&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaYILDIZ-DEV&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
+
+<!-- Motto -->
 <p align="center">
   <em>Basit, anlaşılır, işlevsel kod.</em>
 </p>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ArdaYILDIZ-DEV&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaYILDIZ-DEV&layout=compact&
-  
