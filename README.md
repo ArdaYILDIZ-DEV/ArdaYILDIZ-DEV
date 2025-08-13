@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArdaYILDIZ-DEV/ArdaYILDIZ-DEV/output/snake.svg" alt="GitHub Katkı Yılanı"/>
+</p>
 
 <!-- Kullandığım teknolojiler -->
 <h3 align="center"> Kullandığım Teknolojiler & Araçlar </h3>
