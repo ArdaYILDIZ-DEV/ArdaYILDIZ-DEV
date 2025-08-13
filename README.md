@@ -1,9 +1,4 @@
 
-<p align="center">
-  <a href="https://discord.com/users/1197169449879474199">
-    <img src="https://api.lanyard.rest/v1/users/1197169449879474199.svg?theme=dark&bg=00000000&borderRadius=30px" alt="Arda YILDIZ - Discord Durumu"/>
-  </a>
-</p>
 
 <!-- Kullandığın teknolojiler -->
 <h3 align="center"> Kullandığım Teknolojiler & Araçlar </h3>
