@@ -16,7 +16,7 @@
 
     
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArdaDEV&layout=compact&theme=darcula&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArdaDEV&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 </p>
 
   
