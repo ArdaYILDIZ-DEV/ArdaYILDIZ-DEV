@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArdaDEV&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArdaDEV&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&v=5" />
 </p>
   
 <!-- Motto -->
