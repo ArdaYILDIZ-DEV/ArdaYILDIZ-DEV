@@ -14,10 +14,6 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaYILDIZ-DEV&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 
-    
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ArdaDEV&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
-</p>
 
   
 <!-- Motto -->
