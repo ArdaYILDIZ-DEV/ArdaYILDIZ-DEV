@@ -19,8 +19,3 @@
 </p>
   -->
   
-<!-- Motto -->
-<p align="center">
-  <em>Basit, anlaşılır, işlevsel kod.</em>
-</p>
-
