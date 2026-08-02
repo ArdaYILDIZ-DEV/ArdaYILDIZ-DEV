@@ -7,4 +7,5 @@
     <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,html,css,electron,vscode,powershell&perline=5&theme=dark" />
   </a>
 </p>
-          Geri bildirime ve katkıya açığım, issue açmaktan çekinmeyin.
+          
+        Geri bildirime ve katkıya açığım, issue açmaktan çekinmeyin.
